@@ -1,0 +1,32 @@
+.main {
+	width: 595px;
+	height: 842px;
+	margin: 0 auto;
+	-webkit-box-shadow: 0px 0px 10px 1px rgba(0,0,0,0.75);
+    -moz-box-shadow: 0px 0px 10px 1px rgba(0,0,0,0.75);
+	box-shadow: 0px 0px 10px 1px rgba(0,0,0,0.75);
+	padding: 50px;
+}
+
+.main img {height: 250px;}
+
+.main ul {line-height: 30px;}
+
+.indent-bottom {margin-bottom: 35px;}
+
+.main h1 {text-align: center;}
+.top {text-align: center;}
+
+p {margin-left: 10px;}
+
+a {
+	display: block;
+	margin-left: 10px;
+	margin-bottom: 20px;
+}
+
+.main .line {
+	height: 1px;
+	margin: 0 auto;
+	background-color: black;
+}
